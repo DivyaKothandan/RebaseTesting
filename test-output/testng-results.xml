@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24214" started-at="2020-05-23T05:21:03Z" finished-at="2020-05-23T05:21:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24214" started-at="2020-05-23T05:21:03Z" finished-at="2020-05-23T05:21:27Z">
+      <class name="tests.LoginTestTestNG">
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:tests.LoginTestTestNG@66d2e7d9]" name="launchApplication" is-config="true" duration-ms="13359" started-at="2020-05-23T10:51:03Z" finished-at="2020-05-23T10:51:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="LoginTestCase()[pri:0, instance:tests.LoginTestTestNG@66d2e7d9]" name="LoginTestCase" duration-ms="10187" started-at="2020-05-23T10:51:16Z" finished-at="2020-05-23T10:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestCase -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:tests.LoginTestTestNG@66d2e7d9]" name="closeApplication" is-config="true" duration-ms="648" started-at="2020-05-23T10:51:26Z" finished-at="2020-05-23T10:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- tests.LoginTestTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
